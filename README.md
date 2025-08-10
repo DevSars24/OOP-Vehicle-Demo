@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="ChatGPT Image Aug 10, 2025, 10_41_31 PM" src="https://github.com/user-attachments/assets/f15c3fa5-05ba-45b0-a691-540a6e169206" />﻿# OOP-Vehicle-Demo
+<img width="650" height="950" alt="ChatGPT Image Aug 10, 2025, 10_41_31 PM" src="https://github.com/user-attachments/assets/f15c3fa5-05ba-45b0-a691-540a6e169206" />﻿# OOP-Vehicle-Demo
 # 🚗 Vehicle OOP Demo  
 
 > **A simple yet powerful demonstration of Advanced Object-Oriented Programming (OOP) concepts in C++ using a Vehicle Management System example.**
@@ -85,3 +85,4 @@ Saurabh Singh Rajput
 ---
 
 **© Saurabh Singh Rajput** 🚀  
+
