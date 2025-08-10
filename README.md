@@ -23,22 +23,6 @@ To **master the 4 pillars of OOP** —
 - **🎯 Abstraction:** Pure virtual methods to force derived class implementation  
 - **♻️ Clean Code:** Easy to read, beginner-friendly, and reusable  
 
-Vehicle-OOP-Demo/
-│
-├── main.cpp\n
-│   # 🚀 Entry point of the program
-│
-├── vehicle.h\n
-│   # 🔒 Base class with abstraction & encapsulation
-│
-├── car.cpp\n
-│   # 🚘 Car class implementation
-│
-├── bike.cpp\n
-│   # 🏍️ Bike class implementation
-│
-└── README.md\n
-    # 📜 Project documentation
 
 
 ## 💻 Example Output
@@ -84,6 +68,7 @@ Saurabh Singh Rajput
 ---
 
 **© Saurabh Singh Rajput** 🚀  
+
 
 
 
